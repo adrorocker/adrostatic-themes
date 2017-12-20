@@ -1,0 +1,15 @@
+{
+    "name": "adrorocker/adrostatic-themes",
+    "description": "AdroStatic Themes",
+    "type": "library",
+    "homepage": "https://github.com/adrorocker/adrostatic-themes",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Adro Rocker",
+            "email": "me@adro.rocker",
+            "homepage": "https://github.com/adrorocker"
+        }
+    ],
+    "prefer-stable": true
+}
